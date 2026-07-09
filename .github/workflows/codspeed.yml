@@ -29,4 +29,4 @@ jobs:
         uses: CodSpeedHQ/action@9f3a37ece7abc84992501a7fcd54d1704f3458fa # v4.18.4
         with:
           mode: walltime
-          run: go test -bench=. ./...
+          run: go test -bench=. -run '^$' ./internal ./internal/glob ./internal/ogtags ./lib/thoth
