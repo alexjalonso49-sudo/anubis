@@ -10,6 +10,7 @@
 ![language count](https://img.shields.io/github/languages/count/TecharoHQ/anubis)
 ![repo size](https://img.shields.io/github/repo-size/TecharoHQ/anubis)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Xe)](https://github.com/sponsors/Xe)
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://app.codspeed.io/alexjalonso49-sudo/anubis?utm_source=badge)
 
 ## Sponsors
 
